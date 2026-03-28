@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(gh search:*)",
+      "Bash(gh repo:*)",
+      "Bash(gh api:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:docs.crewai.com)",
+      "WebFetch(domain:spec-weave.com)",
+      "WebFetch(domain:blog.cambium.ai)",
+      "WebFetch(domain:lukaspetr.com)",
+      "WebFetch(domain:mktclarity.com)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:addyosmani.com)",
+      "WebFetch(domain:newsletter.mkt1.co)",
+      "WebFetch(domain:blog.crewai.com)",
+      "WebFetch(domain:stormy.ai)",
+      "WebFetch(domain:getpushtoprod.substack.com)",
+      "WebFetch(domain:gist.github.com)",
+      "WebFetch(domain:heeki.medium.com)",
+      "WebFetch(domain:www.mindstudio.ai)",
+      "WebFetch(domain:aicofounder.com)",
+      "WebFetch(domain:claudefa.st)",
+      "WebFetch(domain:seobrien.com)",
+      "WebFetch(domain:darasoba.medium.com)",
+      "WebFetch(domain:www.newsletter.datadrivenvc.io)",
+      "WebFetch(domain:mcpmarket.com)",
+      "WebFetch(domain:blog.fsck.com)",
+      "WebFetch(domain:www.indiehackers.com)",
+      "WebFetch(domain:termo.ai)",
+      "WebFetch(domain:alirezarezvani.medium.com)",
+      "WebFetch(domain:www-cdn.anthropic.com)",
+      "WebFetch(domain:snow.runbear.io)"
+    ]
+  }
+}
