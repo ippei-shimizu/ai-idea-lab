@@ -31,7 +31,23 @@
       "WebFetch(domain:termo.ai)",
       "WebFetch(domain:alirezarezvani.medium.com)",
       "WebFetch(domain:www-cdn.anthropic.com)",
-      "WebFetch(domain:snow.runbear.io)"
+      "WebFetch(domain:snow.runbear.io)",
+      "Bash(mkdir -p /Users/shimizuippei/projects/dev/ai-idea-lab/.claude/skills/idea-killer)",
+      "Bash(mkdir -p /Users/shimizuippei/projects/dev/ai-idea-lab/.claude/agents)",
+      "WebFetch(domain:wisprflow.ai)",
+      "WebFetch(domain:rork.com)",
+      "WebFetch(domain:dify.ai)",
+      "WebFetch(domain:crewai.com)",
+      "WebFetch(domain:www.notch.cx)",
+      "WebFetch(domain:chexy.co)",
+      "WebFetch(domain:subbyx.com)",
+      "WebFetch(domain:habitpixel.com)",
+      "WebFetch(domain:www.alice.tech)",
+      "WebFetch(domain:general.legal)",
+      "WebFetch(domain:www.steadwing.com)",
+      "WebFetch(domain:praktika.ai)",
+      "WebFetch(domain:buzzbase.jp)",
+      "WebFetch(domain:supabase.com)"
     ]
   }
 }
